@@ -62,7 +62,7 @@
 
 >
 
-- [Live Demo]()
+- Live Demo will be added soon
 
 <!-- GETTING STARTED -->
 
