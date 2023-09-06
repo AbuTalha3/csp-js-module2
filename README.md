@@ -1,15 +1,12 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="src/images/logo.png" alt="logo" width="140"  height="auto"  />
+  
   <br/>
 
-  <h2><b>Restaurant</b></h2>
+  <h3><b>Welcome...</b></h3>
 
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -17,13 +14,11 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -32,15 +27,16 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+# 📖 [JAVASCRIPT_CAPSTONE] <a name="about-project"></a>
 
-# 📖 [Restaurant] <a name="about-project"></a>
+My to-do list project in Microverse.
 
-**[Our Restaurant]** is a website for the restaurant. With this app , customers can see the meals , they can like and comment on meals. All data is preserved thanks to [Involvement API](https://microverse.notion.site/Involvement-API-869e60b5ad104603aa6db59e08150270). This website is build by using JavaScript, Webpack and ES6.
+**[JAVASCRIPT_CAPSTONE]** is a project experience that Microverse offers to help nuture your skills in designing application based on API data.  
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
+<<<<<<< HEAD
 
 - HTML
 - CSS
@@ -72,28 +68,51 @@
 
 To get a local copy up and running, follow these steps.
 
+=======
+ 1. HTML5
+ 2. CSS3
+ 3. JavaScript
+ 4. Webpack
+ 5. Jest
+
+
+### Key Features <a name="key-features"></a>
+
+  1. It is made to cater for mobile devices and desktops
+  2. Introductory page with a list of meals fetched from an external api
+  3. Preview of the list page
+  4. Responsive design
+  5. Ability to like a post
+  6. Comment section on the modal
+
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+>>>>>>> 284a04a05df298f741be7cdeb3789b0e3613d6fa
 ### Prerequisites
 
 In order to run this project you need:
 
-```sh
- npm install
-```
-
+An extension to your browser
 ### Setup
 
 Clone this repository to your desired folder:
 
+<<<<<<< HEAD
 ```sh
   git clone https://github.com/AbuTalha3/csp-js-module2.git
 
   cd javascript-capstone
 ```
 
+=======
+git clone [JAVASCRIPT-CAPSTONE](https://github.com/2004-okari/JAVASCRIPT_CAPSTONE)
+>>>>>>> 284a04a05df298f741be7cdeb3789b0e3613d6fa
 ### Install
 
 Install this project with:
 
+<<<<<<< HEAD
 ```sh
  npm install
 ```
@@ -164,10 +183,53 @@ You can deploy this project using:
 
 <!-- CONTRIBUTING -->
 
+=======
+- cd JAVSCRIPT
+- npm install
+  
+### Usage
+
+To run the project, execute the following command:
+Open the index.html file on the browser or use a VS code extension server to start the project`
+
+- run ***npm i*** or ***npm install*** in your terminal to download all the packages needed to make the project run
+- run ***npm run start*** or ***npm start*** to open the project in your browser
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Deployment
+
+Will deploy the project using netlify.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### 👤 Authors <a name="authors"></a>
+
+1. 👤 Abu Talha
+
+GitHub: @githubhandle
+Twitter: @twitterhandle
+LinkedIn: LinkedIn
+
+2. Siddharta Ghosh
+GitHub: @siddghosh108
+Twitter: @siddharthaghos9
+LinkedIn: @siddhartha-ghosh-65902718
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+1. Deployment
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+>>>>>>> 284a04a05df298f741be7cdeb3789b0e3613d6fa
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
+<<<<<<< HEAD
 Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -192,3 +254,30 @@ I would like to thank my coding partner for sharing their knowledge and experien
 This project is [LICENSE](./LICENCE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+=======
+Feel free to check the [issues page](https://github.com/2004-okari/JAVASCRIPT_CAPSTONE/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project you can star the repository to make it look better.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse for giving me all the necessary knowledge i need to make this project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENCE.md) licensed.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+>>>>>>> 284a04a05df298f741be7cdeb3789b0e3613d6fa
