@@ -1,8 +1,3 @@
-import counterHomepage from './counterHomepage.js';
-import renderPopComment from './renderPopComment.js';
-import sendLikes from './sendLikes.js';
-import fetchPro from './fetchPro.js';
-import getLike from './getLike.js';
 import { API_URL_MEALS } from './config.js';
 
 const mealContainer = document.querySelector('.meal-container');
