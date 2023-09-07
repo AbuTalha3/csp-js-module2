@@ -1,4 +1,4 @@
-import renderMeals from './modules/renderMeals.js';
+// import renderMeals from './modules/renderMeals.js';
 import logo from './images/logo.png';
 import './style/index.css';
 
