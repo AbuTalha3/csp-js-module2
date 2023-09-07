@@ -1,8 +1,8 @@
-// import renderMeals from './modules/renderMeals.js';
+import renderMeals from './modules/renderMeals.js';
 import logo from './images/logo.png';
 import './style/index.css';
 
-// renderMeals();
+renderMeals();
 const closeBtn = document.querySelector('.close-btn');
 const overly = document.querySelector('.overly');
 const headerLogo = document.querySelector('.logo');
