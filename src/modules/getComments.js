@@ -1,3 +1,4 @@
+/* This Js file uses API to get comment for the comment interface */
 import fetchPro from './fetchPro.js';
 
 const getComment = async (id) => {
