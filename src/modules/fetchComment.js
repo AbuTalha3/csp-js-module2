@@ -1,3 +1,4 @@
+/* This JS file will be used to fetch comments for the comments interface */
 import fetchPro from './fetchPro.js';
 import getComment from './getComments.js';
 import counterComment from './counterComments.js';
