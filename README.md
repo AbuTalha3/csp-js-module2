@@ -36,7 +36,7 @@
 
 # 📖 [Restaurant] <a name="about-project"></a>
 
-**[Our Restaurant]** is a website for the restaurant. With this app , customers can see the meals , they can like and comment on meals. All data is preserved thanks to [Involvement API](https://microverse.notion.site/Involvement-API-869e60b5ad104603aa6db59e08150270). This website is build by using JavaScript, Webpack and ES6.
+**[Our Restaurant]** is a website for a restaurant. With this app, customers can see the meals, pictures, ingredients and even the cooking process, they can like and comment on meals. All data is preserved thanks to [Involvement API](https://microverse.notion.site/Involvement-API-869e60b5ad104603aa6db59e08150270). This website is build by using JavaScript, Webpack and ES6.
 
 ## 🛠 Built With <a name="built-with"></a>
 
